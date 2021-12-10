@@ -129,7 +129,7 @@ SessionManagementScreen {
                 radius: width / 2
                 rotation: -90
                 anchors.centerIn: parent
-                color: "#00A9A5"
+                color: "#a05a5a"
                
             }
 

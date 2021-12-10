@@ -61,12 +61,12 @@
     <stop
        offset="0%"
        stop-opacity="1"
-       style="stop-color:#00a9a5"
+       style="stop-color:#a05a5a"
        id="stop2" />
     <stop
        offset="97.82608695652173%"
        stop-opacity="1"
-       style="stop-color:#00a9a5"
+       style="stop-color:#a05a5a"
        id="stop4" />
   </linearGradient>
   <path
@@ -74,5 +74,5 @@
      fill-rule="evenodd"
      fill="url(#_lgradient_0)"
      id="path7"
-     style="fill:#00a9a5;fill-opacity:1" />
+     style="fill:#a05a5a;fill-opacity:1" />
 </svg>

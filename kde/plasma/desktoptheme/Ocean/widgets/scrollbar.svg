@@ -112,7 +112,7 @@
        height="6"
        width="6"
        id="hint-scrollbar-size"
-       style="fill:#00a9a5;fill-opacity:1" />
+       style="fill:#a05a5a;fill-opacity:1" />
     <svg:rect
        ry="2.077126"
        rx="0"
@@ -313,27 +313,27 @@
        x="33"
        y="1024.3622" />
     <svg:g
-       style="fill:#00a9a5;fill-opacity:1"
+       style="fill:#a05a5a;fill-opacity:1"
        transform="translate(-78.000025,43.000046)"
        id="sunken-slider-topright">
       <svg:path
          inkscape:connector-curvature="0"
          id="path4559"
          d="m 100,1001.3622 v 2 h 2 c 0,-1.108 -0.89201,-2 -2,-2 z"
-         style="opacity:1;fill:#00a9a5;fill-opacity:1" />
+         style="opacity:1;fill:#a05a5a;fill-opacity:1" />
     </svg:g>
     <svg:g
-       style="fill:#00a9a5;fill-opacity:1"
+       style="fill:#a05a5a;fill-opacity:1"
        id="sunken-slider-topleft"
        transform="matrix(-1,0,0,1,118.99999,43.000046)">
       <svg:path
-         style="opacity:1;fill:#00a9a5;fill-opacity:1"
+         style="opacity:1;fill:#a05a5a;fill-opacity:1"
          d="m 100,1001.3622 v 2 h 2 c 0,-1.108 -0.89201,-2 -2,-2 z"
          id="path4565"
          inkscape:connector-curvature="0" />
     </svg:g>
     <svg:g
-       style="fill:#00a9a5;fill-opacity:1"
+       style="fill:#a05a5a;fill-opacity:1"
        transform="translate(-79.000017,43.000046)"
        id="sunken-slider-top">
       <svg:rect
@@ -342,14 +342,14 @@
          height="2"
          width="1"
          id="rect4571"
-         style="opacity:1;fill:#00a9a5;fill-opacity:1" />
+         style="opacity:1;fill:#a05a5a;fill-opacity:1" />
     </svg:g>
     <svg:g
-       style="fill:#00a9a5;fill-opacity:1"
+       style="fill:#a05a5a;fill-opacity:1"
        id="sunken-slider-right"
        transform="matrix(0,9.000003,-1,0,1025.3622,156.36193)">
       <svg:rect
-         style="opacity:1;fill:#00a9a5;fill-opacity:1"
+         style="opacity:1;fill:#a05a5a;fill-opacity:1"
          id="rect4577"
          width="1"
          height="2"
@@ -357,7 +357,7 @@
          y="1001.3622" />
     </svg:g>
     <svg:g
-       style="fill:#00a9a5;fill-opacity:1"
+       style="fill:#a05a5a;fill-opacity:1"
        transform="matrix(0,9.000003,1,0,-984.3622,156.36193)"
        id="sunken-slider-left">
       <svg:rect
@@ -366,34 +366,34 @@
          height="2"
          width="1"
          id="rect4583"
-         style="opacity:1;fill:#00a9a5;fill-opacity:1" />
+         style="opacity:1;fill:#a05a5a;fill-opacity:1" />
     </svg:g>
     <svg:g
-       style="fill:#00a9a5;fill-opacity:1"
+       style="fill:#a05a5a;fill-opacity:1"
        id="sunken-slider-bottomright"
        transform="matrix(1,0,0,-1,-78.000017,2060.7244)">
       <svg:path
-         style="opacity:1;fill:#00a9a5;fill-opacity:1"
+         style="opacity:1;fill:#a05a5a;fill-opacity:1"
          d="m 100,1001.3622 v 2 h 2 c 0,-1.108 -0.89201,-2 -2,-2 z"
          id="path4589"
          inkscape:connector-curvature="0" />
     </svg:g>
     <svg:g
-       style="fill:#00a9a5;fill-opacity:1"
+       style="fill:#a05a5a;fill-opacity:1"
        transform="rotate(180,59.499995,1030.3622)"
        id="sunken-slider-bottomleft">
       <svg:path
          inkscape:connector-curvature="0"
          id="path4595"
          d="m 100,1001.3622 v 2 h 2 c 0,-1.108 -0.89201,-2 -2,-2 z"
-         style="opacity:1;fill:#00a9a5;fill-opacity:1" />
+         style="opacity:1;fill:#a05a5a;fill-opacity:1" />
     </svg:g>
     <svg:g
-       style="fill:#00a9a5;fill-opacity:1"
+       style="fill:#a05a5a;fill-opacity:1"
        id="sunken-slider-bottom"
        transform="matrix(1,0,0,-1,-79.000017,2060.7244)">
       <svg:rect
-         style="opacity:1;fill:#00a9a5;fill-opacity:1"
+         style="opacity:1;fill:#a05a5a;fill-opacity:1"
          id="rect4601"
          width="1"
          height="2"
@@ -401,7 +401,7 @@
          y="1001.3622" />
     </svg:g>
     <svg:rect
-       style="opacity:1;fill:#00a9a5;fill-opacity:1"
+       style="opacity:1;fill:#a05a5a;fill-opacity:1"
        id="sunken-slider-center"
        width="1"
        height="9"

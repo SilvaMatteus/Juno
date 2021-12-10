@@ -1,19 +1,19 @@
 [Colors:Button]
 BackgroundNormal=255,255,255
 DecorationFocus=#00A3A0
-DecorationHover=#00a9a5
+DecorationHover=#a05a5a
 ForegroundNormal=195,199,209
 
 [Colors:Complementary]
 BackgroundNormal=32,32,32
 DecorationFocus=#00A3A0
-DecorationHover=#00a9a5
+DecorationHover=#a05a5a
 ForegroundNormal=195,199,209
 
 [Colors:View]
 BackgroundNormal=#131520
 DecorationFocus=#00A3A0
-DecorationHover=#00a9a5
+DecorationHover=#a05a5a
 ForegroundNormal=195,199,209
 
 [Colors:Window]
